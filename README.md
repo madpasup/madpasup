@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/madhuri-pasupuleti-221607206//" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
 
 
 
