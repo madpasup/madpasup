@@ -49,4 +49,34 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+## My Projects
+
+### 🔥 Flask-Based Device Management App
+- Developed a **full-stack web application** using Flask.
+- Features:
+  - Manage console details.
+  - Perform standalone and High Availability (HA) image upgrades.
+  - Secure handling of user credentials.
+- Technologies used: Flask, HTML, CSS, SQL.
+
+### ☁️ AWS Lambda - S3 - Polly Automation
+- Automated **text-to-speech** conversion using AWS services.
+- Features:
+  - Upload text files to **S3**.
+  - Use **Lambda** and **Polly** to convert them into **audio files**.
+- Technologies used: AWS Lambda, S3, Polly, Python.
+
+### 📊 Splunk Monitoring & Analytics
+- Built dashboards and alerts for **real-time monitoring**.
+- Integrated **Jenkins with Splunk** for proactive monitoring.
+- Created reports to help **optimize testing processes**.
+- Technologies used: Splunk, Jenkins, Python.
+
+### 📈 DevX Analytics Dashboard
+- Created **analytical dashboards** to track **code coverage**.
+- Identified **untested code areas** and improved overall software quality.
+- Technologies used: Python, Grafana, SQL.
+
+---
+
 
