@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madhuri Pasupuleti</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Python Developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **LLM,Machine Learning**
-
-- 💬 Ask me about **Python,git,Devops,**
-
-- 📫 How to reach me **madpasup@gmail.com**
-
+- 🌱 I’m currently learning **Large Language Models (LLMs)** and **Machine Learning**.
+- 💬 Ask me about **Python, Git, DevOps, Flask, Splunk, and Cloud services**.
+- - 📫 How to reach me **madpasup@gmail.com**
 - 📄 Know about my experiences [Madhuri Resume.docx](Madhuri Resume.docx)
+- ⚡ Fun fact: I love automating boring tasks and building smart dashboards! 🚀
+
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/madhuri-pasupuleti-221607206//" target="_blank">
@@ -49,6 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+
 ## My Projects
 
 ### 🔥 Flask-Based Device Management App
@@ -58,13 +59,6 @@
   - Perform standalone and High Availability (HA) image upgrades.
   - Secure handling of user credentials.
 - Technologies used: Flask, HTML, CSS, SQL.
-
-### ☁️ AWS Lambda - S3 - Polly Automation
-- Automated **text-to-speech** conversion using AWS services.
-- Features:
-  - Upload text files to **S3**.
-  - Use **Lambda** and **Polly** to convert them into **audio files**.
-- Technologies used: AWS Lambda, S3, Polly, Python.
 
 ### 📊 Splunk Monitoring & Analytics
 - Built dashboards and alerts for **real-time monitoring**.
@@ -77,6 +71,6 @@
 - Identified **untested code areas** and improved overall software quality.
 - Technologies used: Python, Grafana, SQL.
 
----
+
 
 
